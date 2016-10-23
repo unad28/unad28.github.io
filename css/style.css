@@ -266,11 +266,11 @@ div {
 }
 
 		#apDiv28 {
-	position: absolute;
-    width: 240px;
+	text-align: left;
+    width: 500px;
     height: 100px;
     font-size: 12px;
-    margin: 50px 0px 0px 240px;
+    margin: -20px 1px 1px 50px;
 }
 
 		#apDiv29 {
@@ -420,5 +420,30 @@ p {
 	color: #000;
 	float: left;
 	margin: 5px;
+}
+#autores1{
+    
+	width:500px;
+	height:120px;
+	background:#white;
+    margin:20px;
+    margin-left:90px;
+	padding:10px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align:justify;
+	font-size:12px;
+	color:#white;
+	font-style:normal;
+	border:5px solid #003f5e;
+        
+}
+#foto{
+	width:120px;
+	height:120px;
+    padding-right: 100px;
+	float:left;
+	margin:1px;
+	background:none;
+	
 }
 
